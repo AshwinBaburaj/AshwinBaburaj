@@ -1,4 +1,4 @@
-# Hi, I'm Ashwin 👋
+# Hi, I'm Ashwin 
 
 Cybersecurity student (B.Tech IT, 2026) specializing in **VAPT** and **SOC operations**, building hands-on offensive security experience through a self-built home lab and a cybersecurity internship at Maharashtra State Cyber Headquarters.
 

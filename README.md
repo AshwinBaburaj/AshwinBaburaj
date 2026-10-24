@@ -1,26 +1,27 @@
-# Hi, I'm Ashwin 
+# Hi, I'm Ashwin
 
-Cybersecurity student (B.Tech IT, 2026) specializing in **VAPT** and **SOC operations**, building hands-on offensive security experience through a self-built home lab and a cybersecurity internship at Maharashtra State Cyber Headquarters.
+B.Tech IT graduate specializing in **SOC operations** and **VAPT**, currently working as a **Cybersecurity Analyst Intern at Maharashtra State Cyber Headquarters** — building detection rules, triaging alerts, and simulating attacks in a self-built Wazuh homelab.
 
-🎯 Currently targeting **VAPT / SOC Analyst** roles
-🔬 Actively documenting exploits from my home lab — see [`vapt-writeups`](https://github.com/AshwinBaburaj/vapt-writeups)
+🛡️ Focused on **detection engineering** and **threat analysis**
+🔬 Actively documenting attacks and detections from personal home lab projects
 📜 Google Cybersecurity Professional Certificate | Certified LLM Security Expert (CLLMSE)
 
 ---
 
 ### 🛠️ Tools & Tech
 
-**VAPT & Security:** Nmap · Metasploit Framework · Burp Suite · LinPEAS · Wireshark
-**Threat Intel & SOC:** IBM QRadar · Cybersixgill · OSINT · Threat Advisory Development
-**Programming:** Python · Java · SQL · HTML/CSS
-**Platforms:** Linux (Kali) · VirtualBox · Google Cloud Platform · Firebase
+**SOC & Detection:** Wazuh · IBM QRadar · Cybersixgill · OSINT · Threat Advisory Development  
+**VAPT & Offensive:** Nmap · Metasploit Framework · Burp Suite · LinPEAS · Wireshark · Gobuster 
+**Programming:** Python · Java · SQL · HTML/CSS  
+**Platforms:** Linux (Kali) · Windows · Google Cloud Platform · Firebase 
 
 ---
 
 ### 📌 Featured Projects
 
+- **[Wazuh SOC Detection Lab](https://github.com/AshwinBaburaj/wazuh-soc-detection-lab)** — Personal homelab: full SIEM deployment with custom detection rules, MITRE ATT&CK mapping, and end-to-end attack simulation (FTP brute force, SQL injection, URL fuzzing) against Metasploitable2.
 - **[VAPT Home Lab](https://github.com/AshwinBaburaj/vapt-writeups)** — Structured exploit writeups (recon → exploitation → impact → remediation) against Metasploitable2 and TryHackMe targets. CVE-documented vulnerabilities including vsftpd, UnrealIRCd, Samba misconfig, and default credential exploitation.
-- **[WealthWise](https://github.com/AshwinBaburaj/Mutual-funds-mini-project)** — Mutual fund investment web app with simulated real-time data, fund listings, and investment tracking.
+- **[WealthWise](https://github.com/AshwinBaburaj/WealthWise)** — Mutual fund investment web app with simulated real-time data, fund listings, and investment tracking.
 
 ---
 

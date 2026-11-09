@@ -25,4 +25,4 @@ Python, PHP, HTML, CSS.
 
 ---
 
-<sub>5 public repositories · 0 stars · 25 contributions in the last year · Case File by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<sub>5 public repositories · 0 stars · 25 contributions in the last year 

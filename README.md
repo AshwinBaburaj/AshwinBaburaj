@@ -1,30 +1,28 @@
-# Hi, I'm Ashwin
+# Ashwin
 
-B.Tech IT graduate specializing in **SOC operations** and **VAPT**, currently working as a **Cybersecurity Analyst Intern at Maharashtra State Cyber Headquarters** — building detection rules, triaging alerts, and simulating attacks in a self-built Wazuh homelab.
+Cybersecurity enthusiast.
 
-🛡️ Focused on **detection engineering** and **threat analysis**
-🔬 Actively documenting attacks and detections from personal home lab projects
-📜 Google Cybersecurity Professional Certificate | Certified LLM Security Expert (CLLMSE)
+<a href="https://github.com/ashwinbaburaj">GitHub</a>
+
+## Now
+
+Right now I'm working on **[phishscope-triage](https://github.com/AshwinBaburaj/phishscope-triage)**: Email, link, and QR-code phishing triage for SOC analysts.
+
+## Selected work
+
+<table>
+<thead><tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Stack</th><th align="right">Stars</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/AshwinBaburaj/phishscope-triage">phishscope-triage</a></td><td align="left">Email, link, and QR-code phishing triage for SOC analysts</td><td align="left">Python</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/AshwinBaburaj/vapt-writeups">vapt-writeups</a></td><td align="left">Penetration testing writeups from a personal home lab — CVE exploitation, Metasploitable2, and TryHackMe rooms. Covers recon, exploitation, impact, and remediation</td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/AshwinBaburaj/wazuh-soc-detection-lab">wazuh-soc-detection-lab</a></td><td align="left">Wazuh SIEM homelab — custom detection rules, MITRE ATT&amp;CK mapping, and attack simulations (FTP brute force, SQL injection, URL fuzzing)</td><td align="left">—</td><td align="right">0</td></tr>
+</tbody>
+</table>
+
+## Stack
+
+Python, PHP, HTML, CSS.
 
 ---
 
-### 🛠️ Tools & Tech
-
-**SOC & Detection:** Wazuh · IBM QRadar · Cybersixgill · OSINT · Threat Advisory Development  
-**VAPT & Offensive:** Nmap · Metasploit Framework · Burp Suite · LinPEAS · Wireshark · Gobuster 
-**Programming:** Python · Java · SQL · HTML/CSS  
-**Platforms:** Linux (Kali) · Windows · Google Cloud Platform · Firebase 
-
----
-
-### 📌 Featured Projects
-
-- **[Wazuh SOC Detection Lab](https://github.com/AshwinBaburaj/wazuh-soc-detection-lab)** — Personal homelab: full SIEM deployment with custom detection rules, MITRE ATT&CK mapping, and end-to-end attack simulation (FTP brute force, SQL injection, URL fuzzing) against Metasploitable2.
-- **[VAPT Home Lab](https://github.com/AshwinBaburaj/vapt-writeups)** — Structured exploit writeups (recon → exploitation → impact → remediation) against Metasploitable2 and TryHackMe targets. CVE-documented vulnerabilities including vsftpd, UnrealIRCd, Samba misconfig, and default credential exploitation.
-- **[WealthWise](https://github.com/AshwinBaburaj/WealthWise)** — Mutual fund investment web app with simulated real-time data, fund listings, and investment tracking.
-
----
-
-### 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/ashwin-baburaj-107316256) · ashwinbaburaj3077@gmail.com
+<sub>5 public repositories · 0 stars · 25 contributions in the last year · Case File by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
